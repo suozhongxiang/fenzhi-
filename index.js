@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-function () {
-  var i =
-=======
 function aa() {
-  var i = a
->>>>>>> reg
-
+  console.log();
 }
-var o = 85
